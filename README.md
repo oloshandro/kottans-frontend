@@ -79,6 +79,7 @@ The new thing for me was how '~' '.' '*' are used in different combinations.
 </details>
 
 <p></p>
+<p></p>
 
 Having read [HTTP: The Protocol Every Web Developer Must Know—Part 1](https://code.tutsplus.com/tutorials/http-the-protocol-every-web-developer-must-know-part-1--net-31177?ec_unit=translation-info-language) on HTTP protocol, I've deepened my understanding of how web apps interact with servers.
 HTTP (which stands for Hypertext Transfer Protocol) has the version 1.1 and the newer and faster one - 2.0. The difference and the advance of the latter lies in the ability of the client to request style and script simultaneously, and of the server to respond with style and script simultaneously as well. While version 1.1 allows single request and single response.
