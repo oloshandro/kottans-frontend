@@ -8,12 +8,11 @@ While doing Coursera course [Introduction to Git and GitHub](https://www.courser
 
 <details>
     <summary>Screenshots of Introduction to Git and GitHub</summary>
-        <img src="./git-screenshots/coursera1.png">
-        <img scr="./git-screenshots/coursera2.png">
-
-    ![coursera1](git-screenshots/coursera1.png)
-    ![coursera2](git-screenshots\coursera2.png)
+        <!-- <img src="./git-screenshots/coursera1.png">
+        <img scr="./git-screenshots/coursera2.png"> -->
 </details>
+![](git-screenshots/coursera1.png)
+![](git-screenshots/coursera2.png)
 
 <details>
     <summary>Screenshots of learngitbranching</summary>
