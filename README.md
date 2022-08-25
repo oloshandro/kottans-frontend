@@ -8,18 +8,20 @@ While doing Coursera course [Introduction to Git and GitHub](https://www.courser
 
 <details>
     <summary>Screenshots of Introduction to Git and GitHub</summary>
-        <!-- <img src="./git-screenshots/coursera1.png">
-        <img scr="./git-screenshots/coursera2.png"> -->
+
+![coursera1](git-screenshots/coursera1.png)
+
+![coursera1](git-screenshots/coursera2.png)
 </details>
-![](git-screenshots/coursera1.png)
-![](git-screenshots/coursera2.png)
+
 
 <details>
     <summary>Screenshots of learngitbranching</summary>
-    [learngitbranching1](/git-screenshots/learngitbranching1.png)
-    [learngitbranching2](/git-screenshots/learngitbranching2.png)
-</details>
 
+![learngitbranching1](/git-screenshots/learngitbranching1.png)
+
+![learngitbranching2](/git-screenshots/learngitbranching2.png)
+</details>
 
 As a sum up, its main features are:
 
@@ -63,13 +65,19 @@ ps aux
 ```
 
 The new thing for me was how '~' '.' '*' are used in different combinations.
+
 <details>
     <summary>Screenshots of Linuxsurvival</summary>
-    [Linuxsurvival1](/task_linux_cli/linux1.png)
-    [Linuxsurvival2](/task_linux_cli/linux2.png)
-    [Linuxsurvival3](/task_linux_cli/linux3.png)
-    [Linuxsurvival4](/task_linux_cli/linux4.png)
+
+![Linuxsurvival1](/task_linux_cli/linux1.png)
+
+![Linuxsurvival2](/task_linux_cli/linux2.png)
+
+![Linuxsurvival3](/task_linux_cli/linux3.png)
+
+![Linuxsurvival4](/task_linux_cli/linux4.png)
 </details>
+
 <p></p>
 
 Having read [HTTP: The Protocol Every Web Developer Must Know—Part 1](https://code.tutsplus.com/tutorials/http-the-protocol-every-web-developer-must-know-part-1--net-31177?ec_unit=translation-info-language) on HTTP protocol, I've deepened my understanding of how web apps interact with servers.
