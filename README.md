@@ -4,12 +4,15 @@
 
 I've completed **Git та GitHub** block.
 Before, I've used some basic git commands but haven't practised much.
-While doing Coursera course [Introduction to Git and GitHub](https://www.coursera.org/learn/introduction-git-github), I learnt more about what Git is and why it is so widely used. 
+While doing Coursera course [Introduction to Git and GitHub](https://www.coursera.org/learn/introduction-git-github), I learnt more about what Git is and why it is so widely used.
 
 <details>
     <summary>Screenshots of Introduction to Git and GitHub</summary>
-    ![coursera1](/git-screenshots/coursera1.png)
-    ![coursera2](/git-screenshots/coursera2.png)
+        <img src="./git-screenshots/coursera1.png">
+        <img scr="./git-screenshots/coursera2.png">
+
+    ![coursera1](git-screenshots/coursera1.png)
+    ![coursera2](git-screenshots\coursera2.png)
 </details>
 
 <details>
@@ -17,9 +20,10 @@ While doing Coursera course [Introduction to Git and GitHub](https://www.courser
     [learngitbranching1](/git-screenshots/learngitbranching1.png)
     [learngitbranching2](/git-screenshots/learngitbranching2.png)
 </details>
-<p></p>
+
 
 As a sum up, its main features are:
+
 * tracking changes
 * making updates
 * getting updates
@@ -27,7 +31,8 @@ As a sum up, its main features are:
 * resolving conflicts
 * branching and merging
 
-Main git commands that I've practised by following the instructor on **Coursera** and by completing practice tasks on https://learngitbranching.js.org/:
+Main git commands that I've practised by following the instructor on **Coursera** and by completing practice tasks on <https://learngitbranching.js.org/>:
+
 ```
 git innit
 git status
@@ -44,6 +49,7 @@ git merge
 ## Linux CLI, and HTTP
 
 Having completed [Linux Survival](https://linuxsurvival.com/), I've got a better understanding of how Linux operation system works and practised most usual commands:
+
 ```
 cd
 ls
@@ -56,6 +62,7 @@ chmod
 kill
 ps aux
 ```
+
 The new thing for me was how '~' '.' '*' are used in different combinations.
 <details>
     <summary>Screenshots of Linuxsurvival</summary>
@@ -65,7 +72,6 @@ The new thing for me was how '~' '.' '*' are used in different combinations.
     [Linuxsurvival4](/task_linux_cli/linux4.png)
 </details>
 <p></p>
-
 
 Having read [HTTP: The Protocol Every Web Developer Must Know—Part 1](https://code.tutsplus.com/tutorials/http-the-protocol-every-web-developer-must-know-part-1--net-31177?ec_unit=translation-info-language) on HTTP protocol, I've deepened my understanding of how web apps interact with servers.
 HTTP (which stands for Hypertext Transfer Protocol) has the version 1.1 and the newer and faster one - 2.0. The difference and the advance of the latter lies in the ability of the client to request style and script simultaneously, and of the server to respond with style and script simultaneously as well. While version 1.1 allows single request and single response.
